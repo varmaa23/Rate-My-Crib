@@ -1,0 +1,60 @@
+$font-stack: Arial, sans-serif;
+$brand-color: white;
+
+body {
+    font: $font-stack;
+    color: $brand-color;
+    color: $brand-color;
+    background: #F45D1D;
+    font-size: 48px;
+    line-height: 55px;
+    text-align: right;
+    text-decoration: none; 
+}
+
+
+.addyBox {
+    font-size:32px;
+    color:white;
+    text-align: left;
+}
+
+.factor {
+    font-size: 36px;
+    font-weight: bold;
+    list-style-type: none;
+    text-align: center;
+}
+
+.stars {
+    text-align: center;
+}
+
+.navbar-link {
+    color:white;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 55px;
+    margin-left: 30px;
+    text-align: left;
+    position: absolute;
+
+}
+
+.header {
+    background: #3C145B;
+    color: white;
+    width:100%;
+    margin-bottom: 1.6rem;
+    padding: 1.6rem 0;
+    position: relative;
+}
+
+@media (min-width: 45rem) {
+    .rectangle {
+      margin-bottom: 4.8rem;
+      z-index: 0;
+    }
+  }

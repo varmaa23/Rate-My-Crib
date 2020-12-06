@@ -1,0 +1,21 @@
+button {
+    width: 487px;
+    height: 106px;
+    border:none;
+    border-bottom: .6rem solid darken(#3C145B, 10%);
+
+    background: #0EBD20;
+    font-family: Earwig Factory;
+    font-style: normal;
+    font-size: 76px;
+    line-height: 91px;
+    color: #3C145B;
+
+    text-align: center;
+    margin: 0;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
